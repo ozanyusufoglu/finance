@@ -20,13 +20,12 @@ Bankacılık sektörünün bu dönüşümlerden daha az etkilenmesi için ve uyu
 
 Düzenlemenin temelinde, müşteri banka hesabına ulaşabilen 3. parti sağlayıcıların (PISP) standart ve güvenli bir yol izlemelerini sağlamak. Bu amaca yönelik tanımlanan XS2A (Access to Accounts) kuralları, bankanın uygun bir API sunabilmesi, 3.parti sağlayıcının da API'ya göre implemente edilmiş bir uygulama geliştirmesini sağlıyor. 
 
-XS2A'nın gerçeklenmesi iki farklı servis sağlayıcı modelini mümkün kılıyor:
+XS2A iki temel servis sağlayıcı modelinini adresliyor:
 
 **PISP** : Müşteri banka hesaplarına güvenli şekilde erişebilen 3.parti Payment Servis Provider, örnek:
 [https://trustly.com/en/](https://trustly.com/en/)
 
-Geleneksel modeldeki dükkanın bankasını (acquirer) bypass ediyor, transaction PISP üzerinden tamamlanıyor.
-Ödeme zinciri kısaldığı için transaction fee düşüyor  
+Geleneksel modeldeki satıcı(retailer) bankasını (Acquirer Bank) ve kredi kartı ağını ( Visa, Master) bypass eden bu modelde, ödeme PISP üzerinde başlatılıyor müşteri bankasına API aracılığıyla bağlanıp transaction gerçekleştiriliyor. Fazla aktörlerin aradan çıkmasıyla ödeme zincirinin kısalması, toplam transaction fee oranını, satıcının lehine olacak şekilde düşürüyor.  
  
 **AISP** : Müşterinin sahip olduğu banka hesapların datasını, transaction history ve harcamalarını da  görebilecek şekilde tutabilen sağlayıcı modeli, aynı zamanda ödeme initate edebiliyor. oteller için trivagonun yaptığına benzer birşey yapıyor, hatta trivago ile kullanıcının arasına giriyor, örneğin oteli vs. seçip sana tatil kredisi çekebileceğin bankayı da buluyor. 
 
