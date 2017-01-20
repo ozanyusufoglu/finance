@@ -21,7 +21,7 @@ Kayıplar:
 
 ## PSD2'nin getirdikleri:
 
-Düzenlemenin temelinde, müşteri banka hesabına ulaşabilen 3. parti sağlayıcıların (PISP) standart ve güvenli bir yol izlemelerini sağlamak yatıyor. Bu amaca yönelik tanımlanan XS2A (Access to Accounts) kuralları, bankanın uygun bir API sunabilmesi, 3.parti sağlayıcının da API'ya göre implemente edilmiş bir uygulama geliştirmesini sağlıyor. 
+Düzenlemenin temelinde, müşteri banka hesabına ulaşabilen 3. parti sağlayıcıların (PISP) standart ve güvenli bir yol izlemelerini sağlamak yatıyor. Bu amaca yönelik tanımlanan XS2A (Access to Accounts) kuralları, bankanın uygun bir API sunabilmesi, 3.parti sağlayıcının da API'ya göre gerçeklenmiş bir uygulama geliştirmesini sağlıyor. 
 
 XS2A iki temel servis sağlayıcı modelinini adresliyor:
 
