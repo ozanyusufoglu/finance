@@ -27,7 +27,7 @@ XS2A iki temel servis sağlayıcı modelinini adresliyor:
 
 Geleneksel modeldeki satıcı(retailer) bankasını (Acquirer Bank) ve kredi kartı ağını ( Visa, Master) bypass eden bu modelde, ödeme PISP üzerinde başlatılıyor müşteri bankasına API aracılığıyla bağlanıp transaction gerçekleştiriliyor. Fazla aktörlerin aradan çıkmasıyla ödeme zincirinin kısalması, toplam transaction fee oranını, satıcının lehine olacak şekilde düşürüyor.  
  
-**AISP** : Müşterinin sahip olduğu banka hesapların datasını, transaction history ve harcamalarını da  görebilecek şekilde tutabilen sağlayıcı modeli, aynı zamanda ödeme initate edebiliyor. oteller için trivagonun yaptığına benzer birşey yapıyor, hatta trivago ile kullanıcının arasına giriyor, örneğin oteli vs. seçip sana tatil kredisi çekebileceğin bankayı da buluyor. 
+**AISP** : Müşterinin sahip olduğu farklı banka hesapları verilerini, transaction history ve harcamaları  görebilecek şekilde saklayabilen sağlayıcı modeli, aynı zamanda PISP gibi ödeme initate edebiliyor. Oteller için Trivago'nun yaptığı gibi birden fazla bankanın API'na erişebiliyor. Hatta Trivago benzeri uygulamalar ile müşteria arasında bir katman olarak giribiliyor, örneğin müşteri verisi üzerinden derlediği insight'lar sayesinde tatile çıkmak için en uygun zamanı belirlenmesi, gezide kullanılacaksa ihtiyaç kredisinin ayarlanması,  destinasyon, otel bulunması ve arabanın kiralanma tavsiyeleri ve ürünlerin satın alınabilmesi ... 
 
 [https://moven.com/](https://moven.com/)
 (kişisel bütçe yönetim araçları \)
