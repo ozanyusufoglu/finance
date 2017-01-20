@@ -32,11 +32,11 @@ Geleneksel modeldeki satıcı(retailer) bankasını (Acquirer Bank) ve kredi kar
 [https://moven.com/](https://moven.com/)
 (kişisel bütçe yönetim araçları \)
 
-## PSD2'nin banka için getirdiği riskler
+## PSD2'nin Bankaların Gelirlerini Olumsuz Etkisi
  
-* Retailer'ın bankasının bypass ediliyor olması, bankanın transaction gelirinden mahrum kalması demek.( İngiltere'de şimdiden yılda £480 milyon pound satıcının cebinde kalıyormuş)
+* Retailer'ın bankasının bypass ediliyor olması, bankanın transaction gelirinden mahrum kalması demek( İngiltere'de şimdiden yılda £480 milyon pound satıcının cebinde kalıyor)
   
-* Ayrıca kart network'ünün de aradan çıkmasıyla transaction başına kesinti 0.68%'den 0.2%'ye düşüyor. Transaction fee'nin daha düşük olması, zamanla retailer'in sadece PSIP modellerini tercih edip bankasıyla ilişkisini bitirmesine yol açabilir
+* Kart Ağı'nın (Visa) aradan çıkmasıyla transaction başına kesinti 0.68%'den 0.2%'ye kadar düşebiliyor ( Transaction fee'nin daha düşük olması, zamanla retailer'in sadece PSIP modellerini tercih edip bankasıyla ilişkisini bitirmesine yol açabilir
 
 * AISP hizmetlerinin yaygınlaşmasıyla kişisel kullanıcılar için banka neredeyse görünmez hale getiriyor, bu da "Ownership" hissinin aşınmasına neden olabilir. Kullanıcının custom ihtiyaçlarına göre herhangi bir bankadan ürün satın alabilmesi yine bu süreci hızlandırıyor. Yani banka Fintech şirketlerinin sanal bir uzantına gönüşüyor. 
 
