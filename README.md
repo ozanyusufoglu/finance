@@ -1,15 +1,15 @@
-Ödeme sistemlerindeki yenilikler, bankaların retail tarafında gelir kaybetmesine sebep oluyor:
+Bankaların retail tarafında gelir kaybetmesine sebep olan yenilikler:
 
 * mobile transactions, internet of things, yeni end-to-end value teknolojileri
-* yeni fintech şirketler, uygulamaları ve modelleri
-* interchange fee'lerin (transaction fee) kural koyucular tarafından sınırlandırılması
+* yeni fintech şirketleri, uygulamaları ve modelleri
+* interchange fee'lerin regülatörler tarafından sınırlandırılması
 
 Bu zorlukların 2020'ye kadar ingiliz bankalarınn retail ödemelerden toplam karının %43 azaltmasına sebep olacağı öngörülüyor. (2015 : 6,6 milyar € --> 2020 :4,6 milyar € )
 
 Kayıplar: 
 * % 27 transaction fee'ye getirilen limitler
 * % 7 non-bank aktörler: apple pay, paypal, mpos
-* % 9 pisp services
+* % 9 PISP services
 
 Sürecin hızlanması ile birlikte bankaların entegre olabilmesi için Revised Payment Services Directive yeni dünelemeler getirecek, böylece bankaların api'larını non-bank aktörelere açmları zorunlu hale getirilecek. 4 maddeyi sağlayan bankalar gelirlerin bir kısmını geri kazanabilir:
 
