@@ -39,7 +39,7 @@ Geleneksel modeldeki satıcı(retailer) bankasını (Acquirer Bank) ve kredi kar
  
 * Satıcı bankasının bypass ediliyor olması, bankanın transaction gelirlerinden mahrum kalması demek( İngiltere'de şimdiden yılda £480 milyon pound, satıcıların cebinde kalıyor).
   
-* Kart Ağı'nın (Visa, Master) aradan çıkmasıyla transaction başına komisyon 0.68%'den 0.2%'ye kadar düşebiliyor(Toplam komisyonun, geleneksel sisteme oranla çok daha düşük olması, zamanla retailer'in sadece PISP modellerini tercih etmesine sebep olup, bankanın müşteriyi kaybetmesine sebep olabiliyor.
+* Kart Ağı'nın (Visa, Master) aradan çıkmasıyla transaction başına komisyon 0.68%'den 0.2%'ye kadar düşebiliyor(Toplam komisyonun, geleneksel sisteme oranla çok daha düşük olması, zamanla retailer'in sadece PISP modellerini tercih etmesine sebep olup, bu bankanın müşteriyi kaybetmesine neden olabiliyor.
 
 * AISP hizmetlerinin yaygınlaşması müşteriye bakan tarafta bankayı neredeyse görünmez hale getiriyor, bu da "ownership" hissinin aşınmasına neden oluyor. Kullanıcının custom ihtiyaçlarına göre herhangi bir bankadan ürün satın alabilmesi bu süreci daha da hızlandırıyor. Yani bankalar, fintech şirketlerinin sanal bir uzantına gönüşüyor, müşterinin banka ürününe sahiplik hissi yok oluyor. 
 
