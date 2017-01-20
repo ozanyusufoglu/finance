@@ -13,7 +13,7 @@ Kayıplar:
 * % 7 non-bankink aktörler: Apple pay, Paypal, mpos
 * % 9 üçüncü parti PISP hizmetleri
 
-Bankacılık sektörünün bu dönüşümlerden daha az etkilenmesi için ve uyum sağlayabilmesi için Revised Payment Services Directive adlı yaptırım bazı reformlar öngörüyor: 2018'e kadar EU zone içerindeki tüm bankaların API'larını banka dışı aktörelere açmak zorunda olmaları gibi.
+Bankacılık sektörünün bu dönüşümlerden daha az etkilenmesi için ve uyum sağlayabilmesi için Revised Payment Services Directive adlı yönerge bazı reformları öngörüyor: 2018'e kadar EU zone içerindeki tüm bankaların API'larını banka dışı aktörelere açmak zorunda olmaları gibi.
 
 
 ## PSD2'nin getirdikleri:
@@ -42,12 +42,12 @@ Geleneksel modeldeki satıcı(retailer) bankasını (Acquirer Bank) ve kredi kar
 
 * Uzan vadede, müşteri geri bildiriminin AISP firmada toplanması bankanın müşteri geri bildirimlerini toplamasını engelliyor, bu da bankanın rekabetteki yerini belirleyebilmesi için ihtiyaç duyduğu kullanıcı verisinden mahrum kalması anlamına geliyor.
 
-## Bankaların yapması gereken
+## Bankaların Yapması Gereken
 
-Makalenin geri kalanında bankaların eski güçlü pozisyonalarından kalabilmeleri için yukarıda özetlediğim dört maddede örneklerle anlatılıyor:
+Bankaların bugünkü pozisyonalarını koruyabilmeleri için dört aşama var: 
 
-* İlk aşamada bankalar API'larını açıp ekosisteme olabildiğince erken dahil olmalılar, burada yasanın öngördüğü verilere access sağlamaları yeterli 
-* İkinic adımda daha gelişkin bir API ile PSIP'lere gelir karşılığı daha fazla veri ve insight sağlayabilecek bir monetization modeli kurmalılar, örneğin demografik bilgileri satmak vs. Yani erişimi modüler ve premium hale getirmek
+1. PSD2 yönergesine uygun hale gelmek. yapmak ve  API'larını açıp ekosisteme olabildiğince erken dahil olmalılar, burada yasanın öngördüğü verilere access sağlamaları yeterli 
+2. İkinic adımda daha gelişkin bir API ile PSIP'lere gelir karşılığı daha fazla veri ve insight sağlayabilecek bir monetization modeli kurmalılar, örneğin demografik bilgileri satmak vs. Yani erişimi modüler ve premium hale getirmek
 * 3 ve adımlar, bankanın  PSIP ve AISP aktörlerin işlevlerini kendilerine adapte etmesini öngörüyor, yani son kullanıcıya verilebilecek veri insightları, tavsiyeler vs ile kullanıcı ile bağını koparmayarak veri birikimini elinde tutmaya devam etmesi. Örneğin harcamalar üzerinden tatile çıkma zamanının belirlenmesi, destinasyon tavsiyesi, turistik gezi için kredinin sağlanması, gidilecek yerde otelin bulunması, arabanın kiralanması vs. 
 * Ekosistemin genişletilmesi, örneğin daha fazla sektöre yönelik insight/ tavsiye verilmesi. Veri birikiminin arttırılıp gelire dönüştürülmesi. 
 
