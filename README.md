@@ -49,7 +49,7 @@ Geleneksel modeldeki satıcı(retailer) bankasını (Acquirer Bank) ve kredi kar
 
 Bankaların bugünkü pozisyonalarını koruyabilmeleri için dört aşama var: 
 
-1. PSD2 yönergesine uygun hale gelecek şekilde, API'larını banka-dışı aktörlere açıp, ekosisteme olabildiğince erken dahil olmaları. Bu aşamada yönergenin öngördüğü verilere access sağlamaları yeterli 
+1. PSD2 yönergesine uygun hale gelecek şekilde, API'larını banka-dışı aktörlere açıp, ekosisteme olabildiğince erken dahil olmaları. Bu aşamada sadece yönergenin öngördüğü verilere access sağlamaları yeterli 
 2. Bir sonraki aşama, daha gelişkin bir API ile PISP'lere gelir karşılığı daha fazla veri ve insight sağlayabilecek bir monetization modeli kurmaları, örneğin demografik veriler, kimlik belgeleri ya da ödeme talimat bilgileri. Yani veriye erişimi modüler ve premium hale getirmek.
 3. Bu adım, bankaların  PISP ve AISP aktörlerinin işlevlerini adapte etmesini öngörüyor, yani kendi PISP ve AISP uygulamlarını kurmasını. Böylece son kullanıcıya verilebilecek veri insightları, tavsiyeler vs ile müşteri ile bağını koparmayarak veri birikimini elinde tutmaya devam etmesi.
 4. Son adımda ekosistemin genişletilmesi, yani daha fazla sektöre yönelik insight/tavsiye verilmesi. Böylece hem gelirin hem de veri birikiminin arttırılması öngörülmekte. 
