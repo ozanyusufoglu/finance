@@ -40,7 +40,7 @@ Geleneksel modeldeki satıcı(retailer) bankasını (Acquirer Bank) ve kredi kar
 
 * AISP hizmetlerinin yaygınlaşması müşteriye bakan tarafta bankayı neredeyse görünmez hale getiriyor, bu da "ownership" hissinin aşınmasına neden oluyor. Kullanıcının custom ihtiyaçlarına göre herhangi bir bankadan ürün satın alabilmesi bu süreci daha da hızlandırıyor. Yani bankalar, fintech şirketlerinin sanal bir uzantına gönüşüyor, müşterinin banka ürününe sahiplik hissi yok oluyor. 
 
-* Uzan vadede, müşteri geri bildiriminin AISP firmada toplanması bankanın negatif feedback almasının önüne geçiyor, bu da bankanın rekabet edebilmesini sağlayan kullanıcı verisinden mahrum kalması demek.
+* Uzan vadede, müşteri geri bildiriminin AISP firmada toplanması bankanın müşteri geri bildirimlerini toplamasını engelliyor, bu da bankanın rekabetteki yerini belirleyebilmesi için ihtiyaç duyduğu kullanıcı verisinden mahrum kalması anlamına geliyor.
 
 ## Bankaların yapması gereken
 
