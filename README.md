@@ -18,7 +18,7 @@ Bankacılık sektörünün bu dönüşümlerden daha az etkilenmesi için ve uyu
 
 ## PSD2'nin getirdikleri:
 
-En önemli düzenleme, kullanıcı banka hesabına ulaşabilen 3. parti sağlayıcıların güvenliğini zorunlu hale getirmesi, bankanın, bu amaç için tanımlanan XS2A (access to accounts) kurallarına uyan bir API sunabilmesi 3.partinin de API'ya göre implement edilmiş bir uygulama geliştirmesi şart
+En önemli düzenleme, kullanıcı banka hesabına ulaşabilen 3. parti sağlayıcıların güvenli erişimini sağlayan bu amaç için tanımlanan XS2A (Access to Accounts) kurallarına uygun bir API sunabilmesi 3.partinin de API'ya göre implement edilmiş bir uygulama geliştirmesi şart
 
 XS2A'nın gerçeklenmesi iki farklı servis sağlayıcı modelini mümkün kılıyor:
 
