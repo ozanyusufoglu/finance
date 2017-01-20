@@ -1,6 +1,6 @@
 # PSD2 
 
-Payment Services Directive, EU ve EEA zone içerisinde ödeme sektörü kurallarını düzenleyen yönergenin adı. Bankacılık sektörünün son yıllardaki dönüşümlerden daha az etkilenmesi ve uyum sağlayabilmesi için bu yönergenin yenilenmiş versiyonu, Revised Payment Services Directive (PSD2) adıyla bazı reformları öngörüyor: 2018'e kadar EU zone içerindeki tüm bankaların API'larını banka dışı aktörelere açmak zorunda olmaları gibi.
+Payment Services Directive, EU ve EEA zone içerisinde ödeme sektörü kurallarını düzenleyen yönergenin adı. Bankacılık sektörünün son yıllardaki dönüşümlerden daha az etkilenmesi ve uyum sağlayabilmesi için bu yönergenin yenilenmiş versiyonu, Revised Payment Services Directive (PSD2), bazı reformları öngörüyor, örneğin 2018'e kadar EU zone içerindeki tüm bankaların API'larını banka dışı aktörelere açmak zorunda olmaları.
 
 Bankaların retail tarafında kredi kartı gelirlerini kaybetmesine sebep olan gelişmeler şunlar: 
 
