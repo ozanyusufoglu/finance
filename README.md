@@ -9,13 +9,12 @@ Bankaların retail tarafında kredi kartı gelirlerini kaybetmesine sebep olan g
 Bu gelişmelerin 2020'ye kadar İngiliz bankalarının retail ödeme gelirlerini %43 azaltmasına sebep olacağı öngörülüyor(2015 : 6,6 milyar € --> 2020 :4,6 milyar €).
 
 Kayıplar: 
-* % 27 transaction fee'ye getirilen limitler
-* % 7 non-bank aktörler: apple pay, paypal, mpos
+* % 27 transaction fee'ye getirilen kısıtlamalardan dolayı 
+* % 7 non-bankink aktörler: Apple pay, Paypal, mpos
 * % 9 üçüncü parti PISP hizmetleri
 
-Bankacılık sektörünün dönüşümden daha az etkilenmesi için, Revised Payment Services Directive adlı kurum bazı reformlar öngörüyor: örneğin 2018'e kadar EU zone içerindeki tüm bankaların API'larını non-bank aktörelere açmak zorunda olmaları. 
+Bankacılık sektörünün dönüşümden daha az etkilenmesi için, Revised Payment Services Directive adlı yaptırım bazı reformlar öngörüyor: 2018'e kadar EU zone içerindeki tüm bankaların API'larını banka dışı aktörelere açmak zorunda olmaları gibi 
 
-Aşağıdaki 4 maddeyi sağlayan bankaların gelirlerinin bir kısmını geri kazanabileceği ve  yeni ekosistemin anlamlı bir parçası olabileceğinden bahsediliyor:
 
 ## PSD2'nin getirdikleri:
 
