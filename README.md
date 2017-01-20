@@ -25,7 +25,7 @@ Düzenlemenin temelinde, müşteri banka hesabına ulaşabilen 3. parti sağlay�
 
 XS2A iki temel servis sağlayıcı modelinini adresliyor:
 
-**PISP** : Müşteri banka hesaplarına güvenli şekilde erişebilen 3.parti Payment Servis Provider, örnek:
+**PISP** : Müşteri banka hesaplarına güvenli şekilde erişebilen 3.parti Payment Initiator Service Provider, örnek:
 [https://trustly.com/en/](https://trustly.com/en/)
 
 Geleneksel modeldeki satıcı(retailer) bankasını (Acquirer Bank) ve kredi kartı ağını ( Visa, Master) bypass eden bu modelde, ödeme PISP üzerinde başlatılıyor müşteri bankasına API aracılığıyla bağlanıp transaction gerçekleştiriliyor. Fazla aktörlerin aradan çıkmasıyla ödeme zincirinin kısalması, toplam transaction fee oranını, satıcının lehine olacak şekilde düşürüyor.  
