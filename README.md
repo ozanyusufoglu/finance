@@ -1,12 +1,12 @@
 # PSD2 
 
-Bankaların retail tarafında gelir kaybetmesine sebep olan gelişmeler:
+Bankaların retail tarafında kredi kartı gelirlerini kaybetmesine sebep olan gelişmeler:
 
-* Mobile ödemeler, internet of things, yeni "end-to-end" ödeme sistemleri 
+* Mobil ödemeler, internet of things, yeni end-to-end ödeme sistemleri 
 * Fintech startuplar'ı ve uygulama modelleri (http://www.cnbc.com/2016/04/04/10-hottest-fintech-start-ups-to-watch-right-now.html)
 * Transaction fee'lerinin piyasa regülatörleri tarafından giderek daha da düşürülmesi
 
-Bu zorlukların 2020'ye kadar ingiliz bankalarınn retail ödeme gelirlerini %43 azaltmasına sebep olacağı öngörülüyor. (2015 : 6,6 milyar € --> 2020 :4,6 milyar € )
+Bu gelişmelerin 2020'ye kadar İngiliz bankalarının retail ödeme gelirlerini %43 azaltmasına sebep olacağı öngörülüyor(2015 : 6,6 milyar € --> 2020 :4,6 milyar €).
 
 Kayıplar: 
 * % 27 transaction fee'ye getirilen limitler
