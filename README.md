@@ -5,11 +5,9 @@ Payment Services Directive, EU ve EEA zone içerisinde ödeme sektörü kurallar
 Bankaların retail tarafında kredi kartı gelirlerini kaybetmesine sebep olan gelişmeler şunlar: 
 
 * Dijital ödeme alternatifleri (Apple Pay, Google Wallet, Paypal)
-* Finans-teknoloji start-uplar'ı ve uygulama modelleri ile artan 3.parti ödeme sağlayıcılar artması(http://www.cnbc.com/2016/04/04/10-hottest-fintech-start-ups-to-watch-right-now.html), 
-* Transaction fee'lerinin piyasa regülatörleri 
-tarafından giderek daha da düşürülmesi
-* Mobil ödemeler, Internet of Things, yeni uçtan uca ödeme çözümleri
-
+* Finans-teknoloji start-up'ları ile sayısı artan 3.parti ödeme sağlayıcılar (http://www.cnbc.com/2016/04/04/10-hottest-fintech-start-ups-to-watch-right-now.html) 
+* Transaction başına alınan ücretlerinin piyasa regülatörleri tarafından sınırlandırılması
+* Mobil ödemeler, Internet of Things, yeni uçtan-uca ödeme çözümleri
 
 Bu gelişmelerin 2020'ye kadar İngiliz bankalarının retail ödeme gelirlerini %43 azaltmasına sebep olacağı öngörülüyor(2015 : 6,6 milyar € --> 2020 :4,6 milyar €).
 
