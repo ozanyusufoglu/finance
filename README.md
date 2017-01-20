@@ -13,7 +13,7 @@ Kayıplar:
 * % 7 non-bankink aktörler: Apple pay, Paypal, mpos
 * % 9 üçüncü parti PISP hizmetleri
 
-Bankacılık sektörünün dönüşümden daha az etkilenmesi için, Revised Payment Services Directive adlı yaptırım bazı reformlar öngörüyor: 2018'e kadar EU zone içerindeki tüm bankaların API'larını banka dışı aktörelere açmak zorunda olmaları gibi 
+Bankacılık sektörünün bu dönüşümlerden daha az etkilenmesi için ve uyum sağlayabilmesi için Revised Payment Services Directive adlı yaptırım bazı reformlar öngörüyor: 2018'e kadar EU zone içerindeki tüm bankaların API'larını banka dışı aktörelere açmak zorunda olmaları gibi.
 
 
 ## PSD2'nin getirdikleri:
