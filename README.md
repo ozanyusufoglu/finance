@@ -36,19 +36,14 @@ Basitçe geleneksel modeldeki dükkanın bankasını (acquirer) bypass ediyor, t
 [https://moven.com/](https://moven.com/)
 (kişisel bütçe yönetim araçları \)
 
-## PSD2'nin götürdükleri 
+## PSD2'nin banka için getirdiği riskler 
 
 * Transaction fee'ler düştüğü için, retailer'in PSIP modellerini daha fazla tercih etmesi bankasıyla ilişkisini bitirmesine yol açabilir, 
 
 * AISP hizmetlerinin yaygınlaşmasıyla kişisel kullanıcılar için bankayı neredeyse görünmez hale getiriyor, bu da "Ownership" hissinin aşınmasına neden olabilir. Kullanıcının custom ihtiyaçlarına göre herhangi bir bankadan ürün satın alabilmesi da yine bu süreci hızlandırıyor. Yani banka Fintech şirketlerinin sanal bir uzantına gönüşüyor. (http://www.cnbc.com/2016/04/04/10-hottest-fintech-start-ups-to-watch-right-now.html)
 
 
-## Grocery :
-
-**PISP** :
-
-**interchange fee:** retail kredi kartı ödemesinde transaction başına ödenen komisyon, acquirer --> issuer'a ödüyor
-
+## Bankaların yapması gereken
 
 
 
