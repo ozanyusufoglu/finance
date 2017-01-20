@@ -1,10 +1,15 @@
 # PSD2 
 
-Bankaların retail tarafında kredi kartı gelirlerini kaybetmesine sebep olan gelişmeler:
+Payment Services Directive, EU ve EEA zone içerisinde ödeme sektörü kurallarını düzenleyen yönerge. Bankacılık sektörünün son yıllardaki dönüşümlerden daha az etkilenmesi ve uyum sağlayabilmesi için bu yönergenin yenilenmiş versiyonu, Revised Payment Services Directive (PSD2) adıyla bazı reformları öngörüyor: 2018'e kadar EU zone içerindeki tüm bankaların API'larını banka dışı aktörelere açmak zorunda olmaları gibi.
 
-* Mobil ödemeler, internet of things, yeni end-to-end ödeme sistemleri 
-* Fintech startuplar'ı ve uygulama modelleri (http://www.cnbc.com/2016/04/04/10-hottest-fintech-start-ups-to-watch-right-now.html)
-* Transaction fee'lerinin piyasa regülatörleri tarafından giderek daha da düşürülmesi
+Bankaların retail tarafında kredi kartı gelirlerini kaybetmesine sebep olan gelişmeler şunlar: 
+
+* Dijital ödeme alternatifleri (Apple Pay, Google Wallet, Paypal)
+* Finans-teknoloji start-uplar'ı ve uygulama modelleri ile artan 3.parti ödeme sağlayıcılar artması(http://www.cnbc.com/2016/04/04/10-hottest-fintech-start-ups-to-watch-right-now.html), 
+* Transaction fee'lerinin piyasa regülatörleri 
+tarafından giderek daha da düşürülmesi
+* Mobil ödemeler, Internet of Things, yeni uçtan uca ödeme çözümleri
+
 
 Bu gelişmelerin 2020'ye kadar İngiliz bankalarının retail ödeme gelirlerini %43 azaltmasına sebep olacağı öngörülüyor(2015 : 6,6 milyar € --> 2020 :4,6 milyar €).
 
@@ -13,7 +18,7 @@ Kayıplar:
 * % 7 non-bankink aktörler: Apple pay, Paypal, mpos
 * % 9 üçüncü parti PISP hizmetleri
 
-Bankacılık sektörünün bu dönüşümlerden daha az etkilenmesi için ve uyum sağlayabilmesi için Revised Payment Services Directive adlı yönerge bazı reformları öngörüyor: 2018'e kadar EU zone içerindeki tüm bankaların API'larını banka dışı aktörelere açmak zorunda olmaları gibi.
+ 
 
 
 ## PSD2'nin getirdikleri:
