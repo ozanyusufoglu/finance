@@ -34,11 +34,11 @@ Geleneksel modeldeki satıcı(retailer) bankasını (Acquirer Bank) ve kredi kar
 
 ## PSD2'nin Bankaların Gelirlerini Olumsuz Etkisi
  
-* Retailer'ın bankasının bypass ediliyor olması, bankanın transaction gelirinden mahrum kalması demek( İngiltere'de şimdiden yılda £480 milyon pound satıcının cebinde kalıyor)
+* Satıcı bankasının bypass ediliyor olması, bankanın transaction gelirlerinden mahrum kalması demek( İngiltere'de şimdiden yılda £480 milyon pound, satıcıların cebinde kalıyor).
   
-* Kart Ağı'nın (Visa) aradan çıkmasıyla transaction başına kesinti 0.68%'den 0.2%'ye kadar düşebiliyor ( Transaction fee'nin daha düşük olması, zamanla retailer'in sadece PSIP modellerini tercih edip bankasıyla ilişkisini bitirmesine yol açabilir
+* Kart Ağı'nın (Visa, Master) aradan çıkmasıyla transaction başına komisyon 0.68%'den 0.2%'ye kadar düşebiliyor(Toplam komisyonun, geleneksel sisteme oranla çok daha düşük olması, zamanla retailer'in sadece PISP modellerini tercih etmesine sebep olup, bankanın müşteriyi kaybetmesine sebep olabiliyor.
 
-* AISP hizmetlerinin yaygınlaşmasıyla kişisel kullanıcılar için banka neredeyse görünmez hale getiriyor, bu da "Ownership" hissinin aşınmasına neden olabilir. Kullanıcının custom ihtiyaçlarına göre herhangi bir bankadan ürün satın alabilmesi yine bu süreci hızlandırıyor. Yani banka Fintech şirketlerinin sanal bir uzantına gönüşüyor. 
+* AISP hizmetlerinin yaygınlaşması müşteriye bakan tarafta bankayı neredeyse görünmez hale getiriyor, bu da "ownership" hissinin aşınmasına neden oluyor. Kullanıcının custom ihtiyaçlarına göre herhangi bir bankadan ürün satın alabilmesi bu süreci daha da hızlandırıyor. Yani bankalar, fintech şirketlerinin sanal bir uzantına gönüşüyor, müşterinin banka ürününe sahiplik hissi yok oluyor. 
 
 * Uzan vadede, müşteri geri bildiriminin AISP firmada toplanması bankanın negatif feedback almasının önüne geçiyor, bu da bankanın rekabet edebilmesini sağlayan kullanıcı verisinden mahrum kalması demek.
 
